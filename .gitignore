@@ -6,3 +6,8 @@
 # Mac OS System
 .DS_Store*
 ._*
+
+out/
+.idea/
+.env
+
