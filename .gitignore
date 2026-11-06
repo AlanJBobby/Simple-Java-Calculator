@@ -8,6 +8,7 @@
 ._*
 
 out/
+*.iml
 .idea/
 .env
 
